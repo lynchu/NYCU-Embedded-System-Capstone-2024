@@ -1,0 +1,1689 @@
+distance = 45.725929737091064, message = too close
+distance = 45.570552349090576, message = too close
+distance = 45.10033130645752, message = too close
+distance = 45.431530475616455, message = too close
+distance = 45.28024196624756, message = too close
+distance = 45.1616644859314, message = too close
+distance = 44.63828802108765, message = too close
+distance = 44.523799419403076, message = too close
+distance = 44.42157745361328, message = too close
+distance = 44.33162212371826, message = too close
+distance = 44.23348903656006, message = too close
+distance = 44.544243812561035, message = too close
+distance = 44.43384408950806, message = too close
+distance = 44.319355487823486, message = too close
+distance = 44.21713352203369, message = too close
+distance = 43.701934814453125, message = too close
+distance = 43.54655742645264, message = too close
+distance = 43.41980218887329, message = too close
+distance = 43.37073564529419, message = too close
+distance = 43.632423877716064, message = too close
+distance = 43.18264722824097, message = too close
+distance = 43.0681586265564, message = too close
+distance = 42.925047874450684, message = too close
+distance = 42.839181423187256, message = too close
+distance = 42.69198179244995, message = too close
+distance = 43.064069747924805, message = too close
+distance = 42.52842664718628, message = too close
+distance = 42.45891571044922, message = too close
+distance = 42.33216047286987, message = too close
+distance = 42.266738414764404, message = too close
+distance = 42.13998317718506, message = too close
+distance = 42.475271224975586, message = too close
+distance = 42.336249351501465, message = too close
+distance = 42.27491617202759, message = too close
+distance = 42.176783084869385, message = too close
+distance = 42.12771654129028, message = too close
+distance = 41.55527353286743, message = too close
+distance = 41.84149503707886, message = too close
+distance = 41.7719841003418, message = too close
+distance = 41.7188286781311, message = too close
+distance = 41.64522886276245, message = too close
+distance = 41.105496883392334, message = too close
+distance = 41.00327491760254, message = too close
+distance = 41.28540754318237, message = too close
+distance = 41.26087427139282, message = too close
+distance = 41.130030155181885, message = too close
+distance = 40.64754247665405, message = too close
+distance = 40.50443172454834, message = too close
+distance = 40.905141830444336, message = too close
+distance = 40.81927537918091, message = too close
+distance = 40.242743492126465, message = too close
+distance = 41.04416370391846, message = too close
+distance = 40.56576490402222, message = too close
+distance = 40.04647731781006, message = too close
+distance = 40.32860994338989, message = too close
+distance = 39.23279047012329, message = too close
+distance = 39.784789085388184, message = too close
+distance = 40.107810497283936, message = too close
+distance = 40.058743953704834, message = too close
+distance = 39.90745544433594, message = too close
+distance = 39.39634561538696, message = too close
+distance = 39.29821252822876, message = too close
+distance = 39.261412620544434, message = too close
+distance = 39.576256275177, message = too close
+distance = 39.11012411117554, message = too close
+distance = 39.43314552307129, message = too close
+distance = 38.90976905822754, message = too close
+distance = 38.84025812149048, message = too close
+distance = 38.77074718475342, message = too close
+distance = 38.672614097595215, message = too close
+distance = 38.57448101043701, message = too close
+distance = 38.54176998138428, message = too close
+distance = 38.82390260696411, message = too close
+distance = 38.832080364227295, message = too close
+distance = 38.33732604980469, message = too close
+distance = 38.66443634033203, message = too close
+distance = 38.57448101043701, message = too close
+distance = 38.07563781738281, message = too close
+distance = 37.97750473022461, message = too close
+distance = 37.94070482254028, message = too close
+distance = 37.83848285675049, message = too close
+distance = 37.74852752685547, message = too close
+distance = 37.695372104644775, message = too close
+distance = 37.15564012527466, message = too close
+distance = 37.969326972961426, message = too close
+distance = 37.515461444854736, message = too close
+distance = 37.81803846359253, message = too close
+distance = 37.306928634643555, message = too close
+distance = 37.282395362854004, message = too close
+distance = 36.74266338348389, message = too close
+distance = 37.09430694580078, message = too close
+distance = 37.09839582443237, message = too close
+distance = 37.400972843170166, message = too close
+distance = 36.50550842285156, message = too close
+distance = 36.84488534927368, message = too close
+distance = 37.22923994064331, message = too close
+distance = 36.70177459716797, message = too close
+distance = 36.644530296325684, message = too close
+distance = 36.57501935958862, message = too close
+distance = 36.04755401611328, message = too close
+distance = 36.464619636535645, message = too close
+distance = 36.37057542800903, message = too close
+distance = 35.916709899902344, message = too close
+distance = 36.010754108428955, message = too close
+distance = 36.194753646850586, message = too close
+distance = 36.50550842285156, message = too close
+distance = 35.65502166748047, message = too close
+distance = 35.53644418716431, message = too close
+distance = 35.507822036743164, message = too close
+distance = 35.88399887084961, message = too close
+distance = 35.72453260421753, message = too close
+distance = 35.28702259063721, message = too close
+distance = 35.28702259063721, message = too close
+distance = 35.61413288116455, message = too close
+distance = 35.552799701690674, message = too close
+distance = 35.02124547958374, message = too close
+distance = 34.988534450531006, message = too close
+distance = 35.36062240600586, message = too close
+distance = 35.31564474105835, message = too close
+distance = 34.85769033432007, message = too close
+distance = 35.192978382110596, message = too close
+distance = 35.168445110321045, message = too close
+distance = 35.078489780426025, message = too close
+distance = 35.466933250427246, message = too close
+distance = 34.555113315582275, message = too close
+distance = 34.49786901473999, message = too close
+distance = 34.45698022842407, message = too close
+distance = 34.76364612579346, message = too close
+distance = 34.6941351890564, message = too close
+distance = 34.72275733947754, message = too close
+distance = 34.68595743179321, message = too close
+distance = 34.61644649505615, message = too close
+distance = 34.95582342147827, message = too close
+distance = 34.52649116516113, message = too close
+distance = 34.824979305267334, message = too close
+distance = 34.33840274810791, message = too close
+distance = 34.28524732589722, message = too close
+distance = 34.23209190368652, message = too close
+distance = 34.21982526779175, message = too close
+distance = 34.4937801361084, message = too close
+distance = 34.06853675842285, message = too close
+distance = 34.01947021484375, message = too close
+distance = 34.01538133621216, message = too close
+distance = 33.5451602935791, message = too close
+distance = 33.86818170547485, message = too close
+distance = 33.782315254211426, message = too close
+distance = 33.77004861831665, message = too close
+distance = 33.75369310379028, message = too close
+distance = 33.67191553115845, message = too close
+distance = 33.209872245788574, message = too close
+distance = 34.00311470031738, message = too close
+distance = 33.97040367126465, message = too close
+distance = 33.917248249053955, message = too close
+distance = 33.49609375, message = too close
+distance = 33.43476057052612, message = too close
+distance = 33.348894119262695, message = too close
+distance = 33.31209421157837, message = too close
+distance = 33.23849439620972, message = too close
+distance = 33.22622776031494, message = too close
+distance = 31.97094202041626, message = too close
+distance = 33.10765027999878, message = too close
+distance = 32.596540451049805, message = too close
+distance = 33.050405979156494, message = too close
+distance = 33.438849449157715, message = too close
+distance = 32.980895042419434, message = too close
+distance = 32.895028591156006, message = too close
+distance = 32.81325101852417, message = too close
+distance = 31.255388259887695, message = too close
+distance = 33.19351673126221, message = too close
+distance = 32.756006717681885, message = too close
+distance = 32.731473445892334, message = too close
+distance = 32.326674461364746, message = too close
+distance = 32.67831802368164, message = too close
+distance = 32.26943016052246, message = too close
+distance = 33.17307233810425, message = too close
+distance = 33.15671682357788, message = too close
+distance = 32.76009559631348, message = too close
+distance = 32.731473445892334, message = too close
+distance = 32.31440782546997, message = too close
+distance = 32.31031894683838, message = too close
+distance = 32.83369541168213, message = too close
+distance = 32.84187316894531, message = too close
+distance = 32.845962047576904, message = too close
+distance = 33.32027196884155, message = too close
+distance = 32.88685083389282, message = too close
+distance = 32.890939712524414, message = too close
+distance = 32.935917377471924, message = too close
+distance = 33.42658281326294, message = too close
+distance = 32.95227289199829, message = too close
+distance = 33.029961585998535, message = too close
+distance = 32.641518115997314, message = too close
+distance = 33.140361309051514, message = too close
+distance = 33.10765027999878, message = too close
+distance = 33.16080570220947, message = too close
+distance = 33.5942268371582, message = too close
+distance = 33.1976056098938, message = too close
+distance = 33.26711654663086, message = too close
+distance = 33.737337589263916, message = too close
+distance = 33.28756093978882, message = too close
+distance = 33.34071636199951, message = too close
+distance = 33.81502628326416, message = too close
+distance = 33.851826190948486, message = too close
+distance = 33.4470272064209, message = too close
+distance = 33.51653814315796, message = too close
+distance = 33.51653814315796, message = too close
+distance = 33.56560468673706, message = too close
+distance = 34.02355909347534, message = too close
+distance = 33.58196020126343, message = too close
+distance = 33.68418216705322, message = too close
+distance = 34.11760330200195, message = too close
+distance = 33.70462656021118, message = too close
+distance = 33.778226375579834, message = too close
+distance = 34.23209190368652, message = too close
+distance = 33.778226375579834, message = too close
+distance = 34.2934250831604, message = too close
+distance = 33.86818170547485, message = too close
+distance = 33.92951488494873, message = too close
+distance = 34.3424916267395, message = too close
+distance = 33.986759185791016, message = too close
+distance = 34.03991460800171, message = too close
+distance = 34.052181243896484, message = too close
+distance = 34.06035900115967, message = too close
+distance = 34.12986993789673, message = too close
+distance = 34.187114238739014, message = too close
+distance = 34.63280200958252, message = too close
+distance = 34.21982526779175, message = too close
+distance = 34.29751396179199, message = too close
+distance = 34.326136112213135, message = too close
+distance = 34.829068183898926, message = too close
+distance = 34.38338041305542, message = too close
+distance = 34.48969125747681, message = too close
+distance = 34.46924686431885, message = too close
+distance = 34.46924686431885, message = too close
+distance = 34.146225452423096, message = too close
+distance = 34.58373546600342, message = too close
+distance = 34.63280200958252, message = too close
+distance = 34.191203117370605, message = too close
+distance = 34.714579582214355, message = too close
+distance = 34.759557247161865, message = too close
+distance = 34.759557247161865, message = too close
+distance = 34.76364612579346, message = too close
+distance = 34.85769033432007, message = too close
+distance = 35.282933712005615, message = too close
+distance = 34.48969125747681, message = too close
+distance = 34.56737995147705, message = too close
+distance = 35.008978843688965, message = too close
+distance = 35.058045387268066, message = too close
+distance = 35.078489780426025, message = too close
+distance = 35.56915521621704, message = too close
+distance = 35.17253398895264, message = too close
+distance = 35.22160053253174, message = too close
+distance = 34.87813472747803, message = too close
+distance = 35.282933712005615, message = too close
+distance = 35.38106679916382, message = too close
+distance = 35.36880016326904, message = too close
+distance = 34.984445571899414, message = too close
+distance = 35.47511100769043, message = too close
+distance = 35.49555540084839, message = too close
+distance = 35.552799701690674, message = too close
+distance = 35.99848747253418, message = too close
+distance = 35.601866245269775, message = too close
+distance = 35.646843910217285, message = too close
+distance = 35.73271036148071, message = too close
+distance = 35.716354846954346, message = too close
+distance = 35.81857681274414, message = too close
+distance = 35.851287841796875, message = too close
+distance = 35.91262102127075, message = too close
+distance = 35.965776443481445, message = too close
+distance = 36.39101982116699, message = too close
+distance = 36.45644187927246, message = too close
+distance = 36.031198501586914, message = too close
+distance = 36.080265045166016, message = too close
+distance = 35.77768802642822, message = too close
+distance = 36.22337579727173, message = too close
+distance = 36.235642433166504, message = too close
+distance = 36.34195327758789, message = too close
+distance = 36.34195327758789, message = too close
+distance = 36.45235300064087, message = too close
+distance = 36.4359974861145, message = too close
+distance = 36.51777505874634, message = too close
+distance = 36.50141954421997, message = too close
+distance = 36.170220375061035, message = too close
+distance = 36.64044141769409, message = too close
+distance = 36.65679693222046, message = too close
+distance = 36.73039674758911, message = too close
+distance = 36.738574504852295, message = too close
+distance = 36.85715198516846, message = too close
+distance = 36.9348406791687, message = too close
+distance = 36.88986301422119, message = too close
+distance = 36.987996101379395, message = too close
+distance = 37.04115152359009, message = too close
+distance = 37.0861291885376, message = too close
+distance = 37.196528911590576, message = too close
+distance = 37.601327896118164, message = too close
+distance = 37.29466199874878, message = too close
+distance = 37.25786209106445, message = too close
+distance = 36.918485164642334, message = too close
+distance = 37.45412826538086, message = too close
+distance = 37.466394901275635, message = too close
+distance = 37.486839294433594, message = too close
+distance = 37.560439109802246, message = too close
+distance = 37.580883502960205, message = too close
+distance = 37.67901659011841, message = too close
+distance = 37.26603984832764, message = too close
+distance = 37.74852752685547, message = too close
+distance = 37.76897192001343, message = too close
+distance = 36.738574504852295, message = too close
+distance = 37.97750473022461, message = too close
+distance = 38.02657127380371, message = too close
+distance = 38.52132558822632, message = too close
+distance = 38.12061548233032, message = too close
+distance = 38.13697099685669, message = too close
+distance = 38.263726234436035, message = too close
+distance = 38.284170627593994, message = too close
+distance = 38.77483606338501, message = too close
+distance = 38.353681564331055, message = too close
+distance = 38.4313702583313, message = too close
+distance = 38.4804368019104, message = too close
+distance = 38.971102237701416, message = too close
+distance = 39.04879093170166, message = too close
+distance = 38.738036155700684, message = too close
+distance = 38.75030279159546, message = too close
+distance = 38.77074718475342, message = too close
+distance = 38.832080364227295, message = too close
+distance = 38.89341354370117, message = too close
+distance = 39.420878887176514, message = too close
+distance = 39.44132328033447, message = too close
+distance = 39.0774130821228, message = too close
+distance = 39.151012897491455, message = too close
+distance = 39.19190168380737, message = too close
+distance = 39.240968227386475, message = too close
+distance = 39.78070020675659, message = too close
+distance = 39.80114459991455, message = too close
+distance = 38.67670297622681, message = too close
+distance = 39.51083421707153, message = too close
+distance = 39.56398963928223, message = too close
+distance = 39.653944969177246, message = too close
+distance = 40.14869928359985, message = too close
+distance = 39.79705572128296, message = too close
+distance = 39.79705572128296, message = too close
+distance = 39.858388900756836, message = too close
+distance = 40.332698822021484, message = too close
+distance = 40.48807621002197, message = too close
+distance = 40.09145498275757, message = too close
+distance = 40.128254890441895, message = too close
+distance = 40.177321434020996, message = too close
+distance = 40.651631355285645, message = too close
+distance = 40.77020883560181, message = too close
+distance = 40.381765365600586, message = too close
+distance = 40.835630893707275, message = too close
+distance = 40.45536518096924, message = too close
+distance = 40.5739426612854, message = too close
+distance = 40.631186962127686, message = too close
+distance = 41.11367464065552, message = too close
+distance = 41.20771884918213, message = too close
+distance = 40.80700874328613, message = too close
+distance = 40.946030616760254, message = too close
+distance = 41.39580726623535, message = too close
+distance = 41.03189706802368, message = too close
+distance = 41.085052490234375, message = too close
+distance = 41.61660671234131, message = too close
+distance = 41.29358530044556, message = too close
+distance = 41.30176305770874, message = too close
+distance = 41.37536287307739, message = too close
+distance = 41.882383823394775, message = too close
+distance = 41.55118465423584, message = too close
+distance = 41.95598363876343, message = too close
+distance = 41.66158437728882, message = too close
+distance = 41.698384284973145, message = too close
+distance = 41.743361949920654, message = too close
+distance = 42.225849628448486, message = too close
+distance = 41.92327260971069, message = too close
+distance = 41.98460578918457, message = too close
+distance = 42.02549457550049, message = too close
+distance = 42.54887104034424, message = too close
+distance = 42.197227478027344, message = too close
+distance = 42.26264953613281, message = too close
+distance = 42.32398271560669, message = too close
+distance = 42.82691478729248, message = too close
+distance = 42.44664907455444, message = too close
+distance = 42.57749319076538, message = too close
+distance = 43.03544759750366, message = too close
+distance = 42.724692821502686, message = too close
+distance = 43.199002742767334, message = too close
+distance = 43.20718050003052, message = too close
+distance = 42.884159088134766, message = too close
+distance = 43.37482452392578, message = too close
+distance = 43.019092082977295, message = too close
+distance = 43.54655742645264, message = too close
+distance = 43.18264722824097, message = too close
+distance = 43.75509023666382, message = too close
+distance = 43.37073564529419, message = too close
+distance = 43.795979022979736, message = too close
+distance = 43.4647798538208, message = too close
+distance = 43.926823139190674, message = too close
+distance = 44.06993389129639, message = too close
+distance = 44.12308931350708, message = too close
+distance = 44.19668912887573, message = too close
+distance = 44.23757791519165, message = too close
+distance = 44.360244274139404, message = too close
+distance = 44.4133996963501, message = too close
+distance = 44.54833269119263, message = too close
+distance = 44.613754749298096, message = too close
+distance = 44.66691017150879, message = too close
+distance = 44.294822216033936, message = too close
+distance = 44.384777545928955, message = too close
+distance = 44.89588737487793, message = too close
+distance = 44.58513259887695, message = too close
+distance = 45.137131214141846, message = too close
+distance = 44.74050998687744, message = too close
+distance = 45.62370777130127, message = too close
+distance = 45.32113075256348, message = too close
+distance = 45.39064168930054, message = too close
+distance = 45.47241926193237, message = too close
+distance = 45.546019077301025, message = too close
+distance = 45.19437551498413, message = too close
+distance = 45.74228525161743, message = too close
+distance = 45.80361843109131, message = too close
+distance = 45.46833038330078, message = too close
+distance = 45.6073522567749, message = too close
+distance = 46.07757329940796, message = too close
+distance = 46.1552619934082, message = too close
+distance = 46.224772930145264, message = too close
+distance = 46.3065505027771, message = too close
+distance = 46.37606143951416, message = too close
+distance = 46.5069055557251, message = too close
+distance = 46.5069055557251, message = too close
+distance = 46.6541051864624, message = too close
+distance = 46.752238273620605, message = too close
+distance = 46.85854911804199, message = too close
+distance = 46.887171268463135, message = too close
+distance = 47.001659870147705, message = too close
+distance = 46.71134948730469, message = too close
+distance = 47.65588045120239, message = too close
+distance = 47.24290370941162, message = too close
+distance = 47.3533034324646, message = too close
+distance = 47.43916988372803, message = too close
+distance = 47.116148471832275, message = too close
+distance = 48.09747934341431, message = too close
+distance = 47.28379249572754, message = too close
+distance = 47.365570068359375, message = too close
+distance = 47.909390926361084, message = too close
+distance = 47.9993462562561, message = too close
+distance = 47.68859148025513, message = too close
+distance = 47.774457931518555, message = too close
+distance = 48.28147888183594, message = too close
+distance = 48.00752401351929, message = too close
+distance = 48.03205728530884, message = too close
+distance = 48.57996702194214, message = too close
+distance = 48.187434673309326, message = too close
+distance = 48.32645654678345, message = too close
+distance = 48.412322998046875, message = too close
+distance = 48.502278327941895, message = too close
+distance = 49.03383255004883, message = too close
+distance = 48.661744594573975, message = too close
+distance = 48.74352216720581, message = too close
+distance = 48.90298843383789, message = too close
+distance = 49.005210399627686, message = too close
+distance = 49.070632457733154, message = too close
+distance = 49.164676666259766, message = too close
+distance = 49.299609661102295, message = too close
+distance = 49.80663061141968, message = too close
+distance = 49.90067481994629, message = too close
+distance = 49.638986587524414, message = too close
+distance = 50.096940994262695, message = close
+distance = 49.78209733963013, message = too close
+distance = 49.92111921310425, message = too close
+distance = 49.97427463531494, message = too close
+distance = 50.51809549331665, message = close
+distance = 50.66120624542236, message = close
+distance = 50.710272789001465, message = close
+distance = 50.42405128479004, message = close
+distance = 50.526273250579834, message = close
+distance = 50.620317459106445, message = close
+distance = 50.6939172744751, message = close
+distance = 50.83702802658081, message = close
+distance = 50.935161113739014, message = close
+distance = 51.008760929107666, message = close
+distance = 51.13551616668701, message = close
+distance = 51.27453804016113, message = close
+distance = 50.98831653594971, message = close
+distance = 51.47898197174072, message = close
+distance = 51.507604122161865, message = close
+distance = 51.736581325531006, message = close
+distance = 51.81835889816284, message = close
+distance = 51.941025257110596, message = close
+distance = 51.63435935974121, message = close
+distance = 52.120935916900635, message = close
+distance = 52.623867988586426, message = close
+distance = 52.37853527069092, message = close
+distance = 52.873289585113525, message = close
+distance = 52.19862461090088, message = close
+distance = 52.255868911743164, message = close
+distance = 52.77515649795532, message = close
+distance = 53.351688385009766, message = close
+distance = 52.619779109954834, message = close
+distance = 52.75062322616577, message = close
+distance = 53.72377634048462, message = close
+distance = 52.987778186798096, message = close
+distance = 53.06137800216675, message = close
+distance = 53.61746549606323, message = close
+distance = 53.760576248168945, message = close
+distance = 53.44982147216797, message = close
+distance = 53.52751016616821, message = close
+distance = 54.04679775238037, message = close
+distance = 53.80964279174805, message = close
+distance = 53.85870933532715, message = close
+distance = 54.45159673690796, message = close
+distance = 54.5824408531189, message = close
+distance = 54.30030822753906, message = close
+distance = 54.85639572143555, message = close
+distance = 54.54155206680298, message = close
+distance = 55.08537292480469, message = close
+distance = 54.77052927017212, message = close
+distance = 54.921817779541016, message = close
+distance = 55.02403974533081, message = close
+distance = 55.126261711120605, message = close
+distance = 54.89319562911987, message = close
+distance = 55.38794994354248, message = close
+distance = 55.56786060333252, message = close
+distance = 56.07079267501831, message = close
+distance = 55.7763934135437, message = close
+distance = 55.899059772491455, message = close
+distance = 55.670082569122314, message = close
+distance = 56.193459033966064, message = close
+distance = 55.9276819229126, message = close
+distance = 56.033992767333984, message = close
+distance = 56.52874708175659, message = close
+distance = 56.70456886291504, message = close
+distance = 56.41834735870361, message = close
+distance = 56.98670148849487, message = close
+distance = 57.07665681838989, message = close
+distance = 57.215678691864014, message = close
+distance = 56.990790367126465, message = close
+distance = 57.09301233291626, message = close
+distance = 57.649099826812744, message = close
+distance = 57.3710560798645, message = close
+distance = 58.40963125228882, message = close
+distance = 58.02527666091919, message = close
+distance = 58.21336507797241, message = close
+distance = 58.3687424659729, message = close
+distance = 58.446431159973145, message = close
+distance = 58.585453033447266, message = close
+distance = 59.18242931365967, message = close
+distance = 58.93709659576416, message = close
+distance = 59.084296226501465, message = close
+distance = 59.25194025039673, message = close
+distance = 59.35007333755493, message = close
+distance = 59.48500633239746, message = close
+distance = 59.68945026397705, message = close
+distance = 59.77940559387207, message = close
+distance = 59.93069410324097, message = close
+distance = 60.09424924850464, message = close
+distance = 60.225093364715576, message = close
+distance = 60.425448417663574, message = close
+distance = 60.52767038345337, message = close
+distance = 61.1614465713501, message = close
+distance = 60.834336280822754, message = close
+distance = 61.038780212402344, message = close
+distance = 61.177802085876465, message = close
+distance = 61.34544610977173, message = close
+distance = 61.48855686187744, message = close
+distance = 61.631667613983154, message = close
+distance = 61.79931163787842, message = close
+distance = 61.930155754089355, message = close
+distance = 62.12642192840576, message = close
+distance = 62.7070426940918, message = close
+distance = 62.478065490722656, message = close
+distance = 62.66206502914429, message = close
+distance = 62.76428699493408, message = close
+distance = 62.91966438293457, message = close
+distance = 63.569796085357666, message = close
+distance = 63.2549524307251, message = close
+distance = 63.47984075546265, message = close
+distance = 63.655662536621094, message = close
+distance = 64.19130563735962, message = close
+distance = 63.98686170578003, message = close
+distance = 64.06455039978027, message = close
+distance = 64.35486078262329, message = close
+distance = 64.90685939788818, message = close
+distance = 65.02543687820435, message = close
+distance = 64.8496150970459, message = close
+distance = 65.41796922683716, message = close
+distance = 65.57743549346924, message = close
+distance = 65.3484582901001, message = close
+distance = 66.37067794799805, message = close
+distance = 65.6960129737854, message = close
+distance = 66.7427659034729, message = close
+distance = 66.62418842315674, message = close
+distance = 67.05760955810547, message = close
+distance = 66.39930009841919, message = close
+distance = 66.56285524368286, message = close
+distance = 66.73458814620972, message = close
+distance = 66.94720983505249, message = close
+distance = 67.11076498031616, message = close
+distance = 67.31112003326416, message = close
+distance = 68.37422847747803, message = close
+distance = 67.69956350326538, message = close
+distance = 67.90400743484497, message = close
+distance = 68.06347370147705, message = close
+distance = 68.27200651168823, message = close
+distance = 68.45600605010986, message = close
+distance = 69.09387111663818, message = close
+distance = 68.81991624832153, message = close
+distance = 69.0366268157959, message = close
+distance = 69.22471523284912, message = close
+distance = 69.85849142074585, message = close
+distance = 69.96480226516724, message = close
+distance = 69.80942487716675, message = close
+distance = 69.98933553695679, message = close
+distance = 70.18969058990479, message = close
+distance = 70.38595676422119, message = close
+distance = 70.65582275390625, message = close
+distance = 70.80302238464355, message = close
+distance = 70.98702192306519, message = close
+distance = 71.65350914001465, message = close
+distance = 71.86204195022583, message = close
+distance = 72.06239700317383, message = close
+distance = 71.82115316390991, message = close
+distance = 72.41404056549072, message = close
+distance = 72.28319644927979, message = close
+distance = 72.81883955001831, message = close
+distance = 72.671639919281, message = close
+distance = 72.81883955001831, message = close
+distance = 73.04372787475586, message = close
+distance = 73.23999404907227, message = close
+distance = 73.49759340286255, message = close
+distance = 74.52390193939209, message = close
+distance = 73.94737005233765, message = close
+distance = 74.13954734802246, message = close
+distance = 74.34399127960205, message = close
+distance = 74.65065717697144, message = close
+distance = 74.83056783676147, message = close
+distance = 75.42754411697388, message = close
+distance = 76.11856460571289, message = close
+distance = 75.49296617507935, message = close
+distance = 75.68923234939575, message = close
+distance = 75.92638731002808, message = close
+distance = 76.13492012023926, message = close
+distance = 76.3638973236084, message = close
+distance = 76.59696340560913, message = close
+distance = 76.83002948760986, message = close
+distance = 77.05082893371582, message = close
+distance = 77.27571725845337, message = close
+distance = 77.12851762771606, message = close
+distance = 77.72140502929688, message = close
+distance = 77.97491550445557, message = close
+distance = 78.19571495056152, message = close
+distance = 78.44104766845703, message = close
+distance = 79.11162376403809, message = close
+distance = 79.30788993835449, message = close
+distance = 79.14433479309082, message = close
+distance = 79.43464517593384, message = close
+distance = 80.12975454330444, message = none
+distance = 80.32193183898926, message = none
+distance = 80.13793230056763, message = none
+distance = 80.3996205329895, message = none
+distance = 80.68993091583252, message = none
+distance = 80.91073036193848, message = none
+distance = 81.58948421478271, message = none
+distance = 81.02930784225464, message = none
+distance = 81.65490627288818, message = none
+distance = 82.35001564025879, message = none
+distance = 82.18237161636353, message = none
+distance = 83.25774669647217, message = none
+distance = 83.07374715805054, message = none
+distance = 82.55854845046997, message = none
+distance = 83.27410221099854, message = none
+distance = 83.06965827941895, message = none
+distance = 83.73205661773682, message = none
+distance = 83.99374485015869, message = none
+distance = 84.22272205352783, message = none
+distance = 85.3348970413208, message = none
+distance = 84.79925394058228, message = none
+distance = 85.44120788574219, message = none
+distance = 85.7356071472168, message = none
+distance = 86.41027212142944, message = none
+distance = 85.86645126342773, message = none
+distance = 86.1853837966919, message = none
+distance = 86.44298315048218, message = none
+distance = 86.69649362564087, message = none
+distance = 86.95818185806274, message = none
+distance = 88.0785346031189, message = none
+distance = 87.95177936553955, message = none
+distance = 87.73506879806519, message = none
+distance = 88.07035684585571, message = none
+distance = 89.26839828491211, message = none
+distance = 89.06395435333252, message = none
+distance = 89.30519819259644, message = none
+distance = 89.23568725585938, message = none
+distance = 89.42786455154419, message = none
+distance = 89.73861932754517, message = none
+distance = 90.12706279754639, message = none
+distance = 91.15746021270752, message = none
+distance = 91.10021591186523, message = none
+distance = 90.98981618881226, message = none
+distance = 91.22697114944458, message = none
+distance = 92.38412380218506, message = none
+distance = 92.24101305007935, message = none
+distance = 92.12243556976318, message = none
+distance = 92.44545698165894, message = none
+distance = 93.16509962081909, message = none
+distance = 93.5085654258728, message = none
+distance = 92.98110008239746, message = none
+distance = 93.66803169250488, message = none
+distance = 94.78429555892944, message = none
+distance = 95.1032280921936, message = none
+distance = 94.6043848991394, message = none
+distance = 94.9069619178772, message = none
+distance = 95.63887119293213, message = none
+distance = 95.91282606124878, message = none
+distance = 95.40989398956299, message = none
+distance = 96.09273672103882, message = none
+distance = 96.04367017745972, message = none
+distance = 96.36669158935547, message = none
+distance = 96.61611318588257, message = none
+distance = 98.27210903167725, message = none
+distance = 97.36846685409546, message = none
+distance = 97.68331050872803, message = none
+distance = 97.63015508651733, message = none
+distance = 98.76686334609985, message = none
+distance = 99.15530681610107, message = none
+distance = 99.8381495475769, message = none
+distance = 99.7931718826294, message = none
+distance = 100.9380578994751, message = none
+distance = 101.24881267547607, message = none
+distance = 100.85219144821167, message = none
+distance = 100.6845474243164, message = none
+distance = 101.06481313705444, message = none
+distance = 101.42463445663452, message = none
+distance = 101.76810026168823, message = none
+distance = 101.66587829589844, message = none
+distance = 102.05432176589966, message = none
+distance = 102.79031991958618, message = none
+distance = 102.73716449737549, message = none
+distance = 104.80613708496094, message = none
+distance = 103.86160612106323, message = none
+distance = 104.24187183380127, message = none
+distance = 105.05555868148804, message = none
+distance = 105.41129112243652, message = none
+distance = 105.79564571380615, message = none
+distance = 106.13502264022827, message = none
+distance = 106.51528835296631, message = none
+distance = 106.47439956665039, message = none
+distance = 106.39262199401855, message = none
+distance = 107.59066343307495, message = none
+distance = 107.57021903991699, message = none
+distance = 107.9668402671814, message = none
+distance = 108.78052711486816, message = none
+distance = 108.6660385131836, message = none
+distance = 108.58426094055176, message = none
+distance = 109.42656993865967, message = none
+distance = 109.45110321044922, message = none
+distance = 110.3588342666626, message = none
+distance = 111.84309720993042, message = none
+distance = 110.99669933319092, message = none
+distance = 111.36469841003418, message = none
+distance = 111.76540851593018, message = none
+distance = 112.1047854423523, message = none
+distance = 112.54638433456421, message = none
+distance = 113.31509351730347, message = none
+distance = 113.31100463867188, message = none
+distance = 113.71989250183105, message = none
+distance = 115.40859937667847, message = none
+distance = 114.88522291183472, message = none
+distance = 115.32682180404663, message = none
+distance = 115.71935415267944, message = none
+distance = 115.72344303131104, message = none
+distance = 115.72753190994263, message = none
+distance = 116.1405086517334, message = none
+distance = 116.92148447036743, message = none
+distance = 117.3344612121582, message = none
+distance = 117.75152683258057, message = none
+distance = 118.15632581710815, message = none
+distance = 119.05996799468994, message = none
+distance = 118.54476928710938, message = none
+distance = 119.4320559501648, message = none
+distance = 118.99454593658447, message = none
+distance = 120.25800943374634, message = none
+distance = 120.22120952606201, message = none
+distance = 121.15756273269653, message = none
+distance = 121.53782844543457, message = none
+distance = 122.00804948806763, message = none
+distance = 122.46191501617432, message = none
+distance = 122.42920398712158, message = none
+distance = 122.8708028793335, message = none
+distance = 123.29195737838745, message = none
+distance = 124.15062189102173, message = none
+distance = 124.6167540550232, message = none
+distance = 125.0624418258667, message = none
+distance = 125.05426406860352, message = none
+distance = 126.35043859481812, message = none
+distance = 126.84110403060913, message = none
+distance = 127.3072361946106, message = none
+distance = 128.16181182861328, message = none
+distance = 127.73656845092773, message = none
+distance = 129.07772064208984, message = none
+distance = 128.66065502166748, message = none
+distance = 128.66474390029907, message = none
+distance = 129.51523065567017, message = none
+distance = 130.46385049819946, message = none
+distance = 130.50473928451538, message = none
+distance = 130.9463381767273, message = none
+distance = 131.03629350662231, message = none
+distance = 131.9440245628357, message = none
+distance = 132.36109018325806, message = none
+distance = 133.25655460357666, message = none
+distance = 132.8844666481018, message = none
+distance = 134.26650762557983, message = none
+distance = 133.84535312652588, message = none
+distance = 135.14561653137207, message = none
+distance = 135.61174869537354, message = none
+distance = 136.1760139465332, message = none
+distance = 135.7793927192688, message = none
+distance = 136.27005815505981, message = none
+distance = 138.0650758743286, message = none
+distance = 138.0732536315918, message = none
+distance = 138.60889673233032, message = none
+distance = 139.49618339538574, message = none
+distance = 138.73565196990967, message = none
+distance = 139.59840536117554, message = none
+distance = 140.1708483695984, message = none
+distance = 140.63289165496826, message = none
+distance = 140.79644680023193, message = none
+distance = 141.6632890701294, message = none
+distance = 142.62417554855347, message = none
+distance = 143.12301874160767, message = none
+distance = 142.77955293655396, message = none
+distance = 144.16159391403198, message = none
+distance = 144.19021606445312, message = none
+distance = 145.12656927108765, message = none
+distance = 145.68265676498413, message = none
+distance = 145.33101320266724, message = none
+distance = 146.23056650161743, message = none
+distance = 146.76212072372437, message = none
+distance = 147.747540473938, message = none
+distance = 148.32407236099243, message = none
+distance = 148.438560962677, message = none
+distance = 149.7797131538391, message = none
+distance = 149.41989183425903, message = none
+distance = 149.94735717773438, message = none
+distance = 150.51162242889404, message = none
+distance = 151.05953216552734, message = none
+distance = 151.54201984405518, message = none
+distance = 152.55197286605835, message = none
+distance = 153.08352708816528, message = none
+distance = 154.10165786743164, message = none
+distance = 153.73365879058838, message = none
+distance = 154.26112413406372, message = none
+distance = 155.2179217338562, message = none
+distance = 156.2687635421753, message = none
+distance = 155.55729866027832, message = none
+distance = 156.42822980880737, message = none
+distance = 156.5631628036499, message = none
+distance = 157.96973705291748, message = none
+distance = 158.54626893997192, message = none
+distance = 158.59942436218262, message = none
+distance = 158.83657932281494, message = none
+distance = 159.77293252944946, message = none
+distance = 161.17132902145386, message = none
+distance = 161.6987943649292, message = none
+distance = 162.32848167419434, message = none
+distance = 163.26483488082886, message = none
+distance = 162.4511480331421, message = none
+distance = 163.97629976272583, message = none
+distance = 163.6491894721985, message = none
+distance = 164.22981023788452, message = none
+distance = 164.75318670272827, message = none
+distance = 164.86358642578125, message = none
+distance = 166.3314938545227, message = none
+distance = 166.85487031936646, message = none
+distance = 166.97344779968262, message = none
+distance = 167.56224632263184, message = none
+distance = 168.94428730010986, message = none
+distance = 168.65806579589844, message = none
+distance = 169.61077451705933, message = none
+distance = 170.63708305358887, message = none
+distance = 170.7720160484314, message = none
+distance = 171.75743579864502, message = none
+distance = 171.0132598876953, message = none
+distance = 172.0109462738037, message = none
+distance = 173.48294258117676, message = none
+distance = 174.0104079246521, message = none
+distance = 174.61965084075928, message = none
+distance = 174.77502822875977, message = none
+distance = 175.76453685760498, message = none
+distance = 175.4987597465515, message = none
+distance = 176.04258060455322, message = none
+distance = 177.06480026245117, message = none
+distance = 177.16293334960938, message = none
+distance = 178.66355180740356, message = none
+distance = 179.240083694458, message = none
+distance = 178.97430658340454, message = none
+distance = 179.98425960540771, message = none
+distance = 180.97376823425293, message = none
+distance = 181.62798881530762, message = none
+distance = 181.69749975204468, message = none
+distance = 182.39669799804688, message = none
+distance = 183.00185203552246, message = none
+distance = 182.2903871536255, message = none
+distance = 185.05446910858154, message = none
+distance = 184.7764253616333, message = none
+distance = 185.83135604858398, message = none
+distance = 185.51242351531982, message = none
+distance = 187.53232955932617, message = none
+distance = 187.24201917648315, message = none
+distance = 187.87579536437988, message = none
+distance = 188.49730491638184, message = none
+distance = 189.13925886154175, message = none
+distance = 189.7607684135437, message = none
+distance = 189.9161458015442, message = none
+distance = 192.27951765060425, message = none
+distance = 191.56396389007568, message = none
+distance = 191.44129753112793, message = none
+distance = 192.8478717803955, message = none
+distance = 192.67613887786865, message = none
+distance = 195.0435996055603, message = none
+distance = 194.7410225868225, message = none
+distance = 195.47293186187744, message = none
+distance = 196.48288488388062, message = none
+distance = 196.72821760177612, message = none
+distance = 196.9367504119873, message = none
+distance = 198.85852336883545, message = none
+distance = 199.574077129364, message = none
+distance = 199.74989891052246, message = none
+distance = 200.39185285568237, message = none
+distance = 200.6249189376831, message = none
+distance = 201.30776166915894, message = none
+distance = 202.33407020568848, message = none
+distance = 203.03326845169067, message = none
+distance = 203.23362350463867, message = none
+distance = 204.75468635559082, message = none
+distance = 205.0572633743286, message = none
+distance = 205.2576184272766, message = none
+distance = 205.87503910064697, message = none
+distance = 206.9585919380188, message = none
+distance = 207.68232345581055, message = none
+distance = 207.83361196517944, message = none
+distance = 208.52872133255005, message = none
+distance = 209.6040964126587, message = none
+distance = 210.71627140045166, message = none
+distance = 210.92889308929443, message = none
+distance = 211.18240356445312, message = none
+distance = 211.82435750961304, message = none
+distance = 212.43360042572021, message = none
+distance = 213.10417652130127, message = none
+distance = 214.26132917404175, message = none
+distance = 215.31217098236084, message = none
+distance = 215.9827470779419, message = none
+distance = 217.11536645889282, message = none
+distance = 216.9313669204712, message = none
+distance = 218.05171966552734, message = none
+distance = 218.70185136795044, message = none
+distance = 218.46060752868652, message = none
+distance = 219.60958242416382, message = none
+distance = 219.84264850616455, message = none
+distance = 220.95073461532593, message = none
+distance = 222.49224185943604, message = none
+distance = 222.802996635437, message = none
+distance = 224.3077039718628, message = none
+distance = 223.61668348312378, message = none
+distance = 224.3567705154419, message = none
+distance = 224.98236894607544, message = none
+distance = 226.0945439338684, message = none
+distance = 226.31125450134277, message = none
+distance = 227.88138389587402, message = none
+distance = 227.21080780029297, message = none
+distance = 230.0812005996704, message = none
+distance = 229.00173664093018, message = none
+distance = 179.6367049217224, message = none
+distance = 58.93300771713257, message = close
+distance = 161.22039556503296, message = none
+distance = 63.430774211883545, message = close
+distance = 156.98840618133545, message = none
+distance = 67.13529825210571, message = close
+distance = 155.24654388427734, message = none
+distance = 69.54364776611328, message = close
+distance = 152.5805950164795, message = none
+distance = 72.67981767654419, message = close
+distance = 150.4830002784729, message = none
+distance = 75.57065486907959, message = close
+distance = 147.86202907562256, message = none
+distance = 79.3038010597229, message = close
+distance = 146.11607789993286, message = none
+distance = 81.18468523025513, message = none
+distance = 143.97759437561035, message = none
+distance = 84.07961130142212, message = none
+distance = 142.1048879623413, message = none
+distance = 86.62289381027222, message = none
+distance = 138.97689580917358, message = none
+distance = 89.56279754638672, message = none
+distance = 138.38400840759277, message = none
+distance = 91.57043695449829, message = none
+distance = 136.2332582473755, message = none
+distance = 94.46945190429688, message = none
+distance = 134.8348617553711, message = none
+distance = 95.12367248535156, message = none
+distance = 133.50597620010376, message = none
+distance = 97.09451198577881, message = none
+distance = 132.12802410125732, message = none
+distance = 96.28491401672363, message = none
+distance = 133.47735404968262, message = none
+distance = 98.00633192062378, message = none
+distance = 132.21797943115234, message = none
+distance = 100.31245946884155, message = none
+distance = 131.21211528778076, message = none
+distance = 100.66410303115845, message = none
+distance = 132.3406457901001, message = none
+distance = 100.61094760894775, message = none
+distance = 133.09708833694458, message = none
+distance = 101.34285688400269, message = none
+distance = 131.21620416641235, message = none
+distance = 103.46907377243042, message = none
+distance = 130.60696125030518, message = none
+distance = 104.05378341674805, message = none
+distance = 130.688738822937, message = none
+distance = 106.05733394622803, message = none
+distance = 128.8569211959839, message = none
+distance = 106.88737630844116, message = none
+distance = 128.6483883857727, message = none
+distance = 107.70106315612793, message = none
+distance = 128.86509895324707, message = none
+distance = 108.48612785339355, message = none
+distance = 129.21265363693237, message = none
+distance = 107.9177737236023, message = none
+distance = 129.48251962661743, message = none
+distance = 108.73146057128906, message = none
+distance = 129.7033190727234, message = none
+distance = 109.56968069076538, message = none
+distance = 129.47434186935425, message = none
+distance = 110.02763509750366, message = none
+distance = 129.4048309326172, message = none
+distance = 110.29750108718872, message = none
+distance = 129.73603010177612, message = none
+distance = 110.41198968887329, message = none
+distance = 131.5474033355713, message = none
+distance = 109.39794778823853, message = none
+distance = 132.11166858673096, message = none
+distance = 110.69821119308472, message = none
+distance = 131.5882921218872, message = none
+distance = 110.34247875213623, message = none
+distance = 132.26295709609985, message = none
+distance = 111.07438802719116, message = none
+distance = 132.66775608062744, message = none
+distance = 110.82905530929565, message = none
+distance = 133.5345983505249, message = none
+distance = 110.94763278961182, message = none
+distance = 134.96979475021362, message = none
+distance = 109.44701433181763, message = none
+distance = 132.96215534210205, message = none
+distance = 112.73038387298584, message = none
+distance = 132.5328230857849, message = none
+distance = 113.51953744888306, message = none
+distance = 132.97442197799683, message = none
+distance = 113.84255886077881, message = none
+distance = 134.61815118789673, message = none
+distance = 115.0446891784668, message = none
+distance = 132.45922327041626, message = none
+distance = 116.45944118499756, message = none
+distance = 131.17122650146484, message = none
+distance = 117.69019365310669, message = none
+distance = 131.53104782104492, message = none
+distance = 119.68965530395508, message = none
+distance = 131.58011436462402, message = none
+distance = 119.00681257247925, message = none
+distance = 132.0339798927307, message = none
+distance = 119.25214529037476, message = none
+distance = 132.40606784820557, message = none
+distance = 118.76556873321533, message = none
+distance = 132.86811113357544, message = none
+distance = 119.46067810058594, message = none
+distance = 133.97619724273682, message = none
+distance = 118.97410154342651, message = none
+distance = 135.21921634674072, message = none
+distance = 118.51205825805664, message = none
+distance = 139.00960683822632, message = none
+distance = 117.05641746520996, message = none
+distance = 140.7105803489685, message = none
+distance = 132.79860019683838, message = none
+distance = 38.59492540359497, message = too close
+distance = 108.49021673202515, message = none
+distance = 130.16127347946167, message = none
+distance = 35.389244556427, message = too close
+distance = 35.148000717163086, message = too close
+distance = 35.2911114692688, message = too close
+distance = 35.48328876495361, message = too close
+distance = 35.20524501800537, message = too close
+distance = 35.86355447769165, message = too close
+distance = 36.07208728790283, message = too close
+distance = 35.785865783691406, message = too close
+distance = 36.035287380218506, message = too close
+distance = 36.648619174957275, message = too close
+distance = 35.986220836639404, message = too close
+distance = 36.20702028274536, message = too close
+distance = 36.36648654937744, message = too close
+distance = 36.60773038864136, message = too close
+distance = 36.79172992706299, message = too close
+distance = 36.55048608779907, message = too close
+distance = 36.79172992706299, message = too close
+distance = 37.012529373168945, message = too close
+distance = 37.6340389251709, message = too close
+distance = 37.43777275085449, message = too close
+distance = 37.674927711486816, message = too close
+distance = 38.2800817489624, message = too close
+distance = 38.15332651138306, message = too close
+distance = 38.79936933517456, message = too close
+distance = 38.98745775222778, message = too close
+distance = 39.25323486328125, message = too close
+distance = 39.469945430755615, message = too close
+distance = 39.768433570861816, message = too close
+distance = 40.017855167388916, message = too close
+distance = 40.651631355285645, message = too close
+distance = 40.95420837402344, message = too close
+distance = 41.20771884918213, message = too close
+distance = 41.44487380981445, message = too close
+distance = 42.12362766265869, message = too close
+distance = 43.67331266403198, message = too close
+distance = 109.75368022918701, message = none
+distance = 47.978901863098145, message = too close
+distance = 125.07879734039307, message = none
+distance = 43.91046762466431, message = too close
+distance = 213.71341943740845, message = none
+distance = 214.2327070236206, message = none
+distance = 214.7806167602539, message = none
+distance = 217.88407564163208, message = none
+distance = 291.1486029624939, message = none
+distance = 50.29729604721069, message = close
+distance = 52.59115695953369, message = close
+distance = 153.58237028121948, message = none
+distance = 52.79968976974487, message = close
+distance = 50.894272327423096, message = close
+distance = 51.11507177352905, message = close
+distance = 51.33178234100342, message = close
+distance = 51.5893816947937, message = close
+distance = 53.49071025848389, message = close
+distance = 155.90485334396362, message = none
+distance = 128.21496725082397, message = none
+distance = 155.0625443458557, message = none
+distance = 130.70918321609497, message = none
+distance = 152.13899612426758, message = none
+distance = 133.17886590957642, message = none
+distance = 151.3293981552124, message = none
+distance = 134.06206369400024, message = none
+distance = 150.52388906478882, message = none
+distance = 116.8397068977356, message = none
+distance = 116.30406379699707, message = none
+distance = 170.28135061264038, message = none
+distance = 117.05641746520996, message = none
+distance = 166.7322039604187, message = none
+distance = 120.24983167648315, message = none
+distance = 156.7676067352295, message = none
+distance = 130.2389621734619, message = none
+distance = 145.9402561187744, message = none
+distance = 129.77691888809204, message = none
+distance = 146.41047716140747, message = none
+distance = 128.9550542831421, message = none
+distance = 60.05336046218872, message = close
+distance = 61.42313480377197, message = close
+distance = 60.674870014190674, message = close
+distance = 62.07735538482666, message = close
+distance = 75.34576654434204, message = close
+distance = 73.46079349517822, message = close
+distance = 60.88749170303345, message = close
+distance = 62.22046613693237, message = close
+distance = 75.90185403823853, message = close
+distance = 72.89652824401855, message = close
+distance = 64.22401666641235, message = close
+distance = 61.86473369598389, message = close
+distance = 74.90007877349854, message = close
+distance = 58.66314172744751, message = close
+distance = 79.33242321014404, message = close
+distance = 60.50722599029541, message = close
+distance = 61.03060245513916, message = close
+distance = 75.34985542297363, message = close
+distance = 62.089622020721436, message = close
+distance = 61.7093563079834, message = close
+distance = 63.496196269989014, message = close
+distance = 88.26662302017212, message = none
+distance = 120.0740098953247, message = none
+distance = 78.18753719329834, message = close
+distance = 88.18075656890869, message = none
+distance = 108.60061645507812, message = none
+distance = 90.78537225723267, message = none
+distance = 75.8118987083435, message = close
+distance = 108.1631064414978, message = none
+distance = 92.42501258850098, message = none
+distance = 87.86591291427612, message = none
+distance = 108.10177326202393, message = none
+distance = 93.12012195587158, message = none
+distance = 89.41150903701782, message = none
+distance = 105.85697889328003, message = none
+distance = 95.16047239303589, message = none
+distance = 90.54003953933716, message = none
+distance = 103.94747257232666, message = none
+distance = 96.35851383209229, message = none
+distance = 91.01026058197021, message = none
+distance = 104.3236494064331, message = none
+distance = 97.51157760620117, message = none
+distance = 91.2637710571289, message = none
+distance = 92.72350072860718, message = none
+distance = 109.08310413360596, message = none
+distance = 91.8648362159729, message = none
+distance = 92.58038997650146, message = none
+distance = 98.86908531188965, message = none
+distance = 102.83529758453369, message = none
+distance = 93.00154447555542, message = none
+distance = 97.9449987411499, message = none
+distance = 103.6776065826416, message = none
+distance = 94.57576274871826, message = none
+distance = 97.4502444267273, message = none
+distance = 104.89200353622437, message = none
+distance = 95.37718296051025, message = none
+distance = 97.26624488830566, message = none
+distance = 104.04969453811646, message = none
+distance = 96.48526906967163, message = none
+distance = 96.53433561325073, message = none
+distance = 103.43636274337769, message = none
+distance = 98.7464189529419, message = none
+distance = 98.79957437515259, message = none
+distance = 102.581787109375, message = none
+distance = 99.95263814926147, message = none
+distance = 99.51103925704956, message = none
+distance = 100.41468143463135, message = none
+distance = 101.6372561454773, message = none
+distance = 99.90357160568237, message = none
+distance = 101.16294622421265, message = none
+distance = 101.71494483947754, message = none
+distance = 100.66819190979004, message = none
+distance = 102.4795651435852, message = none
+distance = 101.62498950958252, message = none
+distance = 101.24063491821289, message = none
+distance = 102.79849767684937, message = none
+distance = 101.24881267547607, message = none
+distance = 102.83529758453369, message = none
+distance = 102.32418775558472, message = none
+distance = 101.25699043273926, message = none
+distance = 103.71031761169434, message = none
+distance = 101.42054557800293, message = none
+distance = 100.82356929779053, message = none
+distance = 107.1163535118103, message = none
+distance = 100.4351258277893, message = none
+distance = 102.07067728042603, message = none
+distance = 95.54891586303711, message = none
+distance = 110.08487939834595, message = none
+distance = 103.8288950920105, message = none
+distance = 94.98873949050903, message = none
+distance = 110.07670164108276, message = none
+distance = 104.31138277053833, message = none
+distance = 97.42980003356934, message = none
+distance = 108.63741636276245, message = none
+distance = 105.55849075317383, message = none
+distance = 96.9514012336731, message = none
+distance = 98.57877492904663, message = none
+distance = 106.3721776008606, message = none
+distance = 106.93644285202026, message = none
+distance = 100.86445808410645, message = none
+distance = 105.10871410369873, message = none
+distance = 109.04630422592163, message = none
+distance = 100.36561489105225, message = none
+distance = 103.89022827148438, message = none
+distance = 99.91174936294556, message = none
+distance = 112.41962909698486, message = none
+distance = 102.51636505126953, message = none
+distance = 101.57183408737183, message = none
+distance = 102.89663076400757, message = none
+distance = 102.46729850769043, message = none
+distance = 111.90851926803589, message = none
+distance = 104.99422550201416, message = none
+distance = 100.71316957473755, message = none
+distance = 102.34054327011108, message = none
+distance = 111.47100925445557, message = none
+distance = 96.77557945251465, message = none
+distance = 100.1857042312622, message = none
+distance = 110.39154529571533, message = none
+distance = 106.53164386749268, message = none
+distance = 104.83884811401367, message = none
+distance = 107.15315341949463, message = none
+distance = 107.36168622970581, message = none
+distance = 106.42533302307129, message = none
+distance = 107.9668402671814, message = none
+distance = 104.83475923538208, message = none
+distance = 108.46977233886719, message = none
+distance = 108.7600827217102, message = none
+distance = 106.48257732391357, message = none
+distance = 110.98034381866455, message = none
+distance = 107.88506269454956, message = none
+distance = 105.55440187454224, message = none
+distance = 111.8022084236145, message = none
+distance = 107.77057409286499, message = none
+distance = 105.93466758728027, message = none
+distance = 113.51544857025146, message = none
+distance = 108.98088216781616, message = none
+distance = 107.4679970741272, message = none
+distance = 110.92718839645386, message = none
+distance = 102.6840090751648, message = none
+distance = 104.06605005264282, message = none
+distance = 110.60007810592651, message = none
+distance = 104.3727159500122, message = none
+distance = 104.45040464401245, message = none
+distance = 110.58372259140015, message = none
+distance = 105.076003074646, message = none
+distance = 116.0873532295227, message = none
+distance = 99.28615093231201, message = none
+distance = 110.57963371276855, message = none
+distance = 109.33661460876465, message = none
+distance = 102.67583131790161, message = none
+distance = 110.5591893196106, message = none
+distance = 110.97216606140137, message = none
+distance = 111.61003112792969, message = none
+distance = 110.93536615371704, message = none
+distance = 110.57963371276855, message = none
+distance = 112.0516300201416, message = none
+distance = 110.86994409561157, message = none
+distance = 105.75884580612183, message = none
+distance = 107.17768669128418, message = none
+distance = 111.63047552108765, message = none
+distance = 109.34070348739624, message = none
+distance = 107.59884119033813, message = none
+distance = 109.44292545318604, message = none
+distance = 111.18887662887573, message = none
+distance = 112.61589527130127, message = none
+distance = 106.69111013412476, message = none
+distance = 107.79101848602295, message = none
+distance = 111.79811954498291, message = none
+distance = 107.40666389465332, message = none
+distance = 107.72559642791748, message = none
+distance = 113.08611631393433, message = none
+distance = 109.99492406845093, message = none
+distance = 106.74017667770386, message = none
+distance = 113.06158304214478, message = none
+distance = 110.40381193161011, message = none
+distance = 108.42070579528809, message = none
+distance = 111.33198738098145, message = none
+distance = 111.2052321434021, message = none
+distance = 111.02941036224365, message = none
+distance = 109.14034843444824, message = none
+distance = 115.5394434928894, message = none
+distance = 108.37163925170898, message = none
+distance = 109.12399291992188, message = none
+distance = 114.58264589309692, message = none
+distance = 110.0071907043457, message = none
+distance = 109.97447967529297, message = none
+distance = 114.65624570846558, message = none
+distance = 111.7040753364563, message = none
+distance = 108.77643823623657, message = none
+distance = 114.98744487762451, message = none
+distance = 111.45056486129761, message = none
+distance = 110.09305715560913, message = none
+distance = 114.93428945541382, message = none
+distance = 113.1965160369873, message = none
+distance = 110.91083288192749, message = none
+distance = 114.5458459854126, message = none
+distance = 113.22104930877686, message = none
+distance = 111.2583875656128, message = none
+distance = 118.42210292816162, message = none
+distance = 111.49554252624512, message = none
+distance = 110.78407764434814, message = none
+distance = 117.65748262405396, message = none
+distance = 114.06744718551636, message = none
+distance = 112.8980278968811, message = none
+distance = 115.07331132888794, message = none
+distance = 114.0470027923584, message = none
+distance = 115.4453992843628, message = none
+distance = 115.02015590667725, message = none
+distance = 113.57678174972534, message = none
+distance = 115.40859937667847, message = none
+distance = 115.52308797836304, message = none
+distance = 116.57392978668213, message = none
+distance = 114.16149139404297, message = none
+distance = 118.07863712310791, message = none
+distance = 117.00735092163086, message = none
+distance = 111.5037202835083, message = none
+distance = 118.90867948532104, message = none
+distance = 117.5389051437378, message = none
+distance = 112.82033920288086, message = none
+distance = 119.7264552116394, message = none
+distance = 116.23455286026001, message = none
+distance = 114.11242485046387, message = none
+distance = 120.17214298248291, message = none
+distance = 115.76433181762695, message = none
+distance = 115.83384275436401, message = none
+distance = 119.730544090271, message = none
+distance = 115.34726619720459, message = none
+distance = 117.06868410110474, message = none
+distance = 120.16396522521973, message = none
+distance = 115.743887424469, message = none
+distance = 117.15863943099976, message = none
+distance = 121.5214729309082, message = none
+distance = 114.70940113067627, message = none
+distance = 118.23810338973999, message = none
+distance = 122.04484939575195, message = none
+distance = 117.9845929145813, message = none
+distance = 115.72344303131104, message = none
+distance = 123.4146237373352, message = none
+distance = 120.54423093795776, message = none
+distance = 116.5861964225769, message = none
+distance = 119.6324110031128, message = none
+distance = 122.70724773406982, message = none
+distance = 117.53072738647461, message = none
+distance = 119.6283221244812, message = none
+distance = 124.00751113891602, message = none
+distance = 116.63117408752441, message = none
+distance = 120.13534307479858, message = none
+distance = 120.21712064743042, message = none
+distance = 119.67329978942871, message = none
+distance = 122.70724773406982, message = none
+distance = 120.27027606964111, message = none
+distance = 121.46422863006592, message = none
+distance = 124.0156888961792, message = none
+distance = 117.61659383773804, message = none
+distance = 120.66280841827393, message = none
+distance = 120.1762318611145, message = none
+distance = 119.78778839111328, message = none
+distance = 124.78848695755005, message = none
+distance = 120.0780987739563, message = none
+distance = 121.48058414459229, message = none
+distance = 126.90243721008301, message = none
+distance = 118.91276836395264, message = none
+distance = 124.57995414733887, message = none
+distance = 126.19915008544922, message = none
+distance = 119.74689960479736, message = none
+distance = 125.4631519317627, message = none
+distance = 123.77853393554688, message = none
+distance = 121.03898525238037, message = none
+distance = 122.38831520080566, message = none
+distance = 122.60502576828003, message = none
+distance = 126.6039490699768, message = none
+distance = 121.64822816848755, message = none
+distance = 123.6149787902832, message = none
+distance = 122.92395830154419, message = none
+distance = 124.49817657470703, message = none
+distance = 129.05727624893188, message = none
+distance = 123.92573356628418, message = none
+distance = 121.59916162490845, message = none
+distance = 131.76002502441406, message = none
+distance = 124.9152421951294, message = none
+distance = 120.29072046279907, message = none
+distance = 131.42473697662354, message = none
+distance = 101.50232315063477, message = none
+distance = 143.7527060508728, message = none
+distance = 133.2851767539978, message = none
+distance = 103.29734086990356, message = none
+distance = 142.98399686813354, message = none
+distance = 134.6876621246338, message = none
+distance = 113.25784921646118, message = none
+distance = 129.01229858398438, message = none
+distance = 101.66996717453003, message = none
+distance = 160.198175907135, message = none
+distance = 131.5351366996765, message = none
+distance = 105.0719141960144, message = none
+distance = 147.05243110656738, message = none
+distance = 133.7390422821045, message = none
+distance = 126.25230550765991, message = none
+distance = 127.71203517913818, message = none
+distance = 165.39922952651978, message = none
+distance = 141.50382280349731, message = none
+distance = 166.29469394683838, message = none
+distance = 126.3586163520813, message = none
+distance = 132.69637823104858, message = none
+distance = 133.49779844284058, message = none
+distance = 143.78950595855713, message = none
+distance = 136.46223545074463, message = none
+distance = 133.86579751968384, message = none
+distance = 133.7308645248413, message = none
+distance = 135.81210374832153, message = none
+distance = 142.76728630065918, message = none
+distance = 139.70880508422852, message = none
+distance = 133.42010974884033, message = none
+distance = 143.42150688171387, message = none
+distance = 134.6304178237915, message = none
+distance = 159.38448905944824, message = none
+distance = 124.4613766670227, message = none
+distance = 138.35129737854004, message = none
+distance = 141.74915552139282, message = none
+distance = 139.23449516296387, message = none
+distance = 138.1182312965393, message = none
+distance = 139.72516059875488, message = none
+distance = 141.35253429412842, message = none
+distance = 140.85369110107422, message = none
+distance = 139.22631740570068, message = none
+distance = 140.7105803489685, message = none
+distance = 134.97388362884521, message = none
+distance = 137.59485483169556, message = none
+distance = 150.27446746826172, message = none
+distance = 128.16181182861328, message = none
+distance = 137.7297878265381, message = none
+distance = 149.74291324615479, message = none
+distance = 126.90243721008301, message = none
+distance = 139.03005123138428, message = none
+distance = 149.96371269226074, message = none
+distance = 127.91647911071777, message = none
+distance = 139.1159176826477, message = none
+distance = 141.34435653686523, message = none
+distance = 131.5474033355713, message = none
+distance = 135.8816146850586, message = none
+distance = 142.74684190750122, message = none
+distance = 141.62240028381348, message = none
+distance = 127.24181413650513, message = none
+distance = 144.63590383529663, message = none
+distance = 149.21135902404785, message = none
+distance = 127.83470153808594, message = none
+distance = 147.36318588256836, message = none
+distance = 148.16460609436035, message = none
+distance = 128.33763360977173, message = none
+distance = 147.86611795425415, message = none
+distance = 149.64886903762817, message = none
+distance = 130.2512288093567, message = none
+distance = 147.0892310142517, message = none
+distance = 144.31697130203247, message = none
+distance = 135.49317121505737, message = none
+distance = 150.74877738952637, message = none
+distance = 136.4213466644287, message = none
+distance = 141.63466691970825, message = none
+distance = 150.95731019973755, message = none
+distance = 141.20124578475952, message = none
+distance = 136.59716844558716, message = none
+distance = 144.01848316192627, message = none
+distance = 140.4202699661255, message = none
+distance = 139.8192048072815, message = none
+distance = 142.10079908370972, message = none
+distance = 141.8063998222351, message = none
+distance = 140.77191352844238, message = none
+distance = 146.5413212776184, message = none
+distance = 148.31180572509766, message = none
+distance = 133.80855321884155, message = none
+distance = 147.42043018341064, message = none
+distance = 158.67302417755127, message = none
+distance = 132.8354001045227, message = none
+distance = 146.07518911361694, message = none
+distance = 148.5857605934143, message = none
+distance = 144.01439428329468, message = none
+distance = 140.10542631149292, message = none
+distance = 157.3686718940735, message = none
+distance = 143.7036395072937, message = none
+distance = 134.55272912979126, message = none
+distance = 157.5567603111267, message = none
+distance = 151.8773078918457, message = none
+distance = 135.5258822441101, message = none
+distance = 148.96193742752075, message = none
+distance = 162.55336999893188, message = none
+distance = 136.08605861663818, message = none
+distance = 149.15002584457397, message = none
+distance = 162.81096935272217, message = none
+distance = 137.0265007019043, message = none
+distance = 141.556978225708, message = none
+distance = 170.8169937133789, message = none
+distance = 140.65333604812622, message = none
+distance = 139.48800563812256, message = none
+distance = 162.45932579040527, message = none
+distance = 150.7814884185791, message = none
+distance = 140.02364873886108, message = none
+distance = 163.97629976272583, message = none
+distance = 151.01046562194824, message = none
+distance = 139.28765058517456, message = none
+distance = 158.1537365913391, message = none
+distance = 158.51764678955078, message = none
+distance = 141.57742261886597, message = none
+distance = 158.705735206604, message = none
+distance = 164.695942401886, message = none
+distance = 137.04285621643066, message = none
+distance = 159.49079990386963, message = none
+distance = 174.77093935012817, message = none
+distance = 126.39541625976562, message = none
+distance = 153.1775712966919, message = none
+distance = 165.56278467178345, message = none
+distance = 143.64230632781982, message = none
+distance = 153.41472625732422, message = none
+distance = 167.07158088684082, message = none
+distance = 146.36549949645996, message = none
+distance = 152.7196168899536, message = none
+distance = 155.3610324859619, message = none
+distance = 158.69755744934082, message = none
+distance = 151.21082067489624, message = none
+distance = 157.99018144607544, message = none
+distance = 158.94289016723633, message = none
+distance = 151.01046562194824, message = none
+distance = 152.31072902679443, message = none
+distance = 162.07497119903564, message = none
+distance = 154.7149896621704, message = none
+distance = 154.18752431869507, message = none
+distance = 151.34984254837036, message = none
+distance = 165.26838541030884, message = none
+distance = 157.3155164718628, message = none
+distance = 150.74877738952637, message = none
+distance = 153.34521532058716, message = none
+distance = 168.46588850021362, message = none
+distance = 161.6947054862976, message = none
+distance = 143.8467502593994, message = none
+distance = 153.35748195648193, message = none
+distance = 169.63121891021729, message = none
+distance = 154.719078540802, message = none
+distance = 153.41472625732422, message = none
+distance = 151.59517526626587, message = none
+distance = 170.73521614074707, message = none
+distance = 155.74947595596313, message = none
+distance = 154.39605712890625, message = none
+distance = 170.01148462295532, message = none
+distance = 153.66414785385132, message = none
+distance = 156.69809579849243, message = none
+distance = 154.06076908111572, message = none
+distance = 170.7638382911682, message = none
+distance = 151.21082067489624, message = none
+distance = 157.92884826660156, message = none
+distance = 156.1665415763855, message = none
+distance = 167.01433658599854, message = none
+distance = 154.39196825027466, message = none
+distance = 161.02821826934814, message = none
+distance = 172.869610786438, message = none
+distance = 155.33649921417236, message = none
+distance = 161.16315126419067, message = none
+distance = 172.18267917633057, message = none
+distance = 155.9620976448059, message = none
+distance = 163.50198984146118, message = none
+distance = 172.3217010498047, message = none
+distance = 151.69739723205566, message = none
+distance = 168.50268840789795, message = none
+distance = 174.7014284133911, message = none
+distance = 149.2358922958374, message = none
+distance = 170.40810585021973, message = none
+distance = 176.68044567108154, message = none
+distance = 138.7233853340149, message = none
+distance = 137.79520988464355, message = none
+distance = 219.4705605506897, message = none
+distance = 138.29405307769775, message = none
+distance = 139.00142908096313, message = none
+distance = 220.23109197616577, message = none
+distance = 138.05689811706543, message = none
+distance = 140.2158260345459, message = none
+distance = 149.06007051467896, message = none
+distance = 209.76765155792236, message = none
+distance = 141.38115644454956, message = none
+distance = 142.94310808181763, message = none
+distance = 141.97813272476196, message = none
+distance = 140.6124472618103, message = none
+distance = 136.23734712600708, message = none
+distance = 140.72693586349487, message = none
+distance = 141.92906618118286, message = none
+distance = 221.3187336921692, message = none
+distance = 146.07110023498535, message = none
+distance = 140.1708483695984, message = none
+distance = 144.16977167129517, message = none
+distance = 144.58274841308594, message = none
+distance = 138.1672978401184, message = none
+distance = 146.41865491867065, message = none
+distance = 142.88586378097534, message = none
+distance = 134.9820613861084, message = none
+distance = 144.37830448150635, message = none
+distance = 144.24337148666382, message = none
+distance = 147.55127429962158, message = none
+distance = 135.31734943389893, message = none
+distance = 146.41047716140747, message = none
+distance = 145.8421230316162, message = none
+distance = 135.26010513305664, message = none
+distance = 144.28834915161133, message = none
+distance = 147.61669635772705, message = none
+distance = 149.60389137268066, message = none
+distance = 217.10718870162964, message = none
+distance = 149.15820360183716, message = none
+distance = 154.43285703659058, message = none
+distance = 151.1249542236328, message = none
+distance = 131.15895986557007, message = none
+distance = 148.00105094909668, message = none
+distance = 150.26220083236694, message = none
+distance = 132.89673328399658, message = none
+distance = 149.67340230941772, message = none
+distance = 150.8387327194214, message = none
+distance = 132.77406692504883, message = none
+distance = 152.78503894805908, message = none
+distance = 226.41756534576416, message = none
+distance = 142.81635284423828, message = none
+distance = 141.47928953170776, message = none
+distance = 150.91233253479004, message = none
+distance = 141.52017831802368, message = none
+distance = 142.7141308784485, message = none
+distance = 161.67426109313965, message = none
+distance = 136.768901348114, message = none
+distance = 136.678946018219, message = none
+distance = 158.19462537765503, message = none
+distance = 150.45437812805176, message = none
+distance = 155.19338846206665, message = none
+distance = 134.31557416915894, message = none
+distance = 160.67657470703125, message = none
+distance = 159.44582223892212, message = none
+distance = 159.37631130218506, message = none
+distance = 159.4539999961853, message = none
+distance = 160.69293022155762, message = none
+distance = 129.37211990356445, message = none
+distance = 159.42537784576416, message = none
+distance = 158.13738107681274, message = none
