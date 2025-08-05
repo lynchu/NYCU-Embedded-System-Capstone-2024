@@ -32,7 +32,7 @@ def iic_start():
     time.sleep(0.00003)
     GPIO.output(IIC_SCL, GPIO.HIGH)
     time.sleep(0.00003)
-    GPIO.output(IIC_SDA, GPIO.LOW)
+    GPIO.output(IIC_SDA, GPIO.LOW) # Pulling SDA from HIGH to LOW while SCL is HIGH triggers the I²C Start Condition
     time.sleep(0.00003)
 
 def iic_send(send_data):
@@ -56,7 +56,7 @@ def iic_end():
     time.sleep(0.00003)
     GPIO.output(IIC_SCL, GPIO.HIGH)
     time.sleep(0.00003)
-    GPIO.output(IIC_SDA, GPIO.HIGH)
+    GPIO.output(IIC_SDA, GPIO.HIGH) # Pulling SDA from LOW to HIGH while SCL is HIGH triggers the I²C Stop Condition.
     time.sleep(0.00003)
 
 def update_display(data_line):
@@ -64,11 +64,11 @@ def update_display(data_line):
     
     print("PRINT table[", data_line, "]")
     iic_start()
-    iic_send(0x40)  # Set the address to add automatically 1
+    iic_send(0x40)  # Set the LED controller address to add automatically 1 (likely: auto increment mode)
     iic_end()
 
     iic_start()
-    iic_send(0xc0)  # Set the initial address to 0
+    iic_send(0xc0)  # Set the initial address to 0 on the LED memory buffer
 
     for i in range(16):
         print(f"#{i+1}: {hex(table[data_line][i])}")
