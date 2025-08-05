@@ -29,6 +29,7 @@ def main(distance):
         print("close")
         offset= 85 
     return offset
+    
 def setup():
     GPIO.setmode(GPIO.BOARD)
     GPIO.setup(BUZZER,GPIO.OUT)
